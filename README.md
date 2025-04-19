@@ -19,7 +19,7 @@ A simple Product Catalog Content Management System built using the **MERN stack*
 **Frontend**:
 - React.js
 - Chakra UI
-- React Router (if used)
+- React Router
 
 **Backend**:
 - Node.js
